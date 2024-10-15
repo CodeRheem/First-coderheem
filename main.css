@@ -1,0 +1,17 @@
+html{ 
+    font-size: 17px;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+table, tr, th, td, caption, form {
+    border: 1px solid #eee; 
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+
+
+}
